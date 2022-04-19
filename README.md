@@ -1,8 +1,8 @@
 # random
-## It's an iOS app that generate random numbers
+## It's an iOS app which generate random numbers
 
-This app generate numbers within range **min...max**.
+This app generate numbers within a **min...max** range.
 
-Default range is **1...9**.
+The default range is **1...9**.
 
-To generate number user should click on the **?** or number.
+To generate a number user should click on the **?** or a number.
